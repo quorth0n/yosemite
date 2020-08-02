@@ -1,0 +1,10 @@
+{
+  "useTestDate": false,
+  "email": "jdoe@gmail.com",
+  "password": "P@ssword1",
+  "name": "John Doe",
+  "cc": "4111111111111111",
+  "month": "01",
+  "year": "20",
+  "cvc": "232"
+}
